@@ -1,4 +1,4 @@
-# Complex Trip Planner: API vs MCP Demo 🌍✈️
+# MCP for Engineers: Zere-to-Hero 🌍✈️
 
 This repository demonstrates the **difference between classic APIs and MCP-style tools** using a more complex, but still intuitive, example:
 
